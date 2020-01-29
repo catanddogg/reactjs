@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Происхождение",
+        "author": "Дэн Браун",
+        "image": null,
+        "price": 710,
+        "rating": 3
+    },
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "image": null,
+        "price": 415,
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "title": "Девушка в тумане",
+        "author": "Донато Карризи",
+        "image": null,
+        "price": 350,
+        "rating": 5
+    }
+]
